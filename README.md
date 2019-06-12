@@ -1,4 +1,6 @@
 # goxinput
+[![GoDoc](https://godoc.org/github.com/WesleiRamos/goxinput?status.svg)](https://godoc.org/github.com/WesleiRamos/goxinput)
+
 Go library for simulate a xbox controller based on [PYXInput](https://github.com/bayangan1991/PYXInput).
 
 ## Prerequisites
